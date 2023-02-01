@@ -12,7 +12,7 @@
 * Internet Penetration (Household): 43.0% of the population (as of 2019)
 * Mobile Vs. Desktop: xx% vs xx%
 
-# About Mozilla Philippines Community
+# About the Mozilla Philippines Community
 
 The Mozilla Philippines Community is the official Mozilla-supported community initiative in the Philippines. Initiated by Gen Kanai, Seth Bindernagel, and Regnard Raquedan, the community aims to support Mozilla in its mission to build the Internet as a global public resource, open and accessible to all. We believe this can be achieved by promoting openness, innovation, and opportunity on the Web.
 
