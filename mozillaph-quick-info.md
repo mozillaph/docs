@@ -1,16 +1,16 @@
 # About The Philippines
 ## Country Information & Statistics:
 * Land Area: 300,000 square kilometers (120,000 square miles)
-* Population: 108.1 million (2019 census)
+* Population: 113.9 million (2021 census)
 * Time Zone: UTC+8
 * Currency: Philippine Peso (PHP)
 * GDP: US$376.8B (2019); US$3,485.08 (per capita)
 * Form of Government: Democracy
 
 ## Key Data:
-* Smartphone Penetration: 69.05% (as of December 2020)
-* Internet Penetration (Household): 43.0% of the population (as of 2019)
-* Mobile Vs. Desktop: xx% vs xx%
+* Smartphone Penetration: 63%-65% (as of December 2021)
+* Internet Penetration (Household): 56%-57% of the population (as of 2021)
+* Mobile Vs. Desktop: The exact ratio of mobile to desktop users in the Philippines may vary depending on the source and methodology of the data collection, but it's safe to say that mobile usage is dominant in the country. As of 2021, the number of mobile users in the Philippines was estimated to be significantly higher than the number of desktop users. 
 
 # About the Mozilla Philippines Community
 
